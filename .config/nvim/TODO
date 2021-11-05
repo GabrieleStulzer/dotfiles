@@ -1,0 +1,8 @@
+- Move configutations to init.lua
+- Customize status line
+- Add Git integration
+
+- Fix Autocompletion
+- Fix Lsp
+
+Get inspiration from lunarvim
