@@ -1,0 +1,1 @@
+/Users/gabrielestulzer/.dotfiles/.zshrc
