@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/gabrielestulzer/.oh-my-zsh"
+export ZSH="/home/gabri/.oh-my-zsh"
 
 ZSH_THEME="arrow"
 
@@ -16,7 +16,6 @@ ENABLE_CORRECTION="true"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
   git
-  osx
   dnf
   vi-mode
   z
